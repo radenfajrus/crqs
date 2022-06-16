@@ -1,0 +1,8 @@
+cqrs
+cqrs.exe
+go.sum
+tmp
+.env
+
+log/*
+!log/.gitkeep
